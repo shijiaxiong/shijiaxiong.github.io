@@ -30,8 +30,8 @@ var config = {
     desc: {
         turn_on: "开始",
         play: "音乐",
-        bannar_coming: "气球",
-        balloons_flying: "特效 duang~",
+        bannar_coming: "加特效",
+        balloons_flying: "duang~",
         cake_fadein: "上蛋糕",
         light_candle: "点燃蜡烛",
         wish_message: "生日快乐",
