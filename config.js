@@ -35,6 +35,6 @@ var config = {
         cake_fadein: "上蛋糕",
         light_candle: "点燃蜡烛",
         wish_message: "生日快乐",
-        story: "自己偷偷看",
+        story: "小可以亲启",
     }
 };
